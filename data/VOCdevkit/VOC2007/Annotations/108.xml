@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>108.jpg</filename>
+	<path>/home/wych/Videoklipp/F3/Usable/data/VOCdevkit/VOC2007/ImageSets/108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>311</ymin>
+			<xmax>490</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>
